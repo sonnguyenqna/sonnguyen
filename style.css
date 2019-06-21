@@ -1,0 +1,124 @@
+body{
+    margin-top:0.2rem;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+.clear{
+    clear: both;
+}
+/*Start Header CSS*/
+.header{
+    width:100%;
+    background:url(http://iotcoworkingspace.com/frontend/images/about.jpg);
+}
+.ct_header{
+    width: 90%;
+    padding-top: 1.2rem;
+    padding-bottom: 23rem;
+}
+.r_ct_header{
+    float: left;
+    margin-top: 0.2rem;
+    margin-left: 16rem;
+    color: aliceblue;
+    font-weight: bold;
+}
+.l_ct_header{
+    float: left;
+}
+.t_r_ct_header i{
+    margin-right: 0.75rem;
+}
+.t_r_ct_header span{
+    margin-right: 2rem;
+}
+.bt_r_ct_header{
+    font: bold;
+}
+.bt_r_ct_header ul{
+    list-style: none;
+}
+.bt_r_ct_header ul li{
+    float: left;
+    margin-right: 2rem;
+}
+.bt_r_ct_header ul li a{
+    color: aliceblue;
+    font-weight: bold;
+    text-decoration: none;
+}
+/*Start CSS Content*/
+.content{
+    width: 100%;
+}
+.l_content{
+    width: 50%;
+    float: left;
+}
+.r_content{
+    width: 50%;
+    float: left;
+}
+.text_content{
+    padding: 4rem;
+}
+.image_content{
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+.text_content h2{
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+.text_content p{
+    color: black;
+    text-align: justify;
+}
+.content{
+    clear:both;
+}
+.section {
+    width:100%; 
+    background: #fbfbfb;
+    border-top: 1px solid #f1f1f1;
+    float: left;
+}
+.ct_section{
+    width:100%;
+}
+.text_ct_section{
+    padding-top:10px;
+} 
+.text_ct_section h2{
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+.text_ct_section ul{
+    list-style: none;
+    text-align: center;
+}
+.text_content ul li{
+    float: left;
+}
+/*Start CSS Footer*/
+.footer{
+    width: 100%;
+}
+.t_footer{
+    width:100%;
+}
+.l_t_footer{
+    width: 100%/3;
+    float: left;
+}
+.c_t_footer{
+    width: 100%/3;
+    float: left;
+}
+.r_t_footer{
+    width: 100%/3;
+    float: left;
+}
